@@ -7,7 +7,7 @@ A sequência Lógica é percorrida pelos arquivos:
     Tratamos a questão de "missing data";
     
 2 - Outliers.ipynb
-    Decido aqui como tratar os dados faltantes;
+    Decido aqui como tratar os pontos extremos das amostras;
     
 3 - MLR_v0.ipynb
     Contém uma aplicação direta do modelo de regressão linear
